@@ -1,0 +1,25 @@
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\bin\Debug\EventManagementSystemExtended.exe.config
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\bin\Debug\EventManagementSystemExtended.exe
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\bin\Debug\EventManagementSystemExtended.pdb
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csprojAssemblyReference.cache
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.Form1.resources
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.Properties.Resources.resources
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csproj.GenerateResource.cache
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csproj.CoreCompileInputs.cache
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.exe
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.pdb
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.AddEventForm.resources
+D:\University 2020-2021\C#\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.AddHospitalityForm.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\bin\Debug\EventManagementSystemExtended.exe.config
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\bin\Debug\EventManagementSystemExtended.exe
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\bin\Debug\EventManagementSystemExtended.pdb
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csproj.AssemblyReference.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csproj.SuggestedBindingRedirects.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.AddEventForm.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.AddHospitalityForm.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.Form1.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.Properties.Resources.resources
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csproj.GenerateResource.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.csproj.CoreCompileInputs.cache
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.exe
+F:\University 2020-2021\CET211-Intermediate Software Development\Week 8 !\EventManagementSystemExtended\EventManagementSystemExtended\obj\Debug\EventManagementSystemExtended.pdb
